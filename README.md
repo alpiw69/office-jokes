@@ -1,6 +1,10 @@
 # Make the AI Judge Laugh: Office Jokes
 
-Bounty: https://make.fun/bounty/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a
+[![make.fun](https://make.fun/badge/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a.svg)](https://make.fun/bounty/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a)
+[![rank](https://make.fun/badge/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a/alpiw69/office-jokes/rank.svg)](https://make.fun/bounty/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a)
+[![reward](https://make.fun/badge/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a/alpiw69/office-jokes/reward.svg)](https://make.fun/bounty/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a)
+
+Bounty: [make.fun bounty page](https://make.fun/bounty/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a)
 Reward: $5 USDC, 10 places paid (1st $1.54, 2nd $1.08, 3rd $0.76, 4th $0.53, 5th $0.37, 6th $0.26, 7th $0.18, 8th $0.13, 9th $0.09, 10th $0.06)
 Deadline: Thu, Nov 26, 2026, 2:40 PM UTC (21:40 WIB)
 
